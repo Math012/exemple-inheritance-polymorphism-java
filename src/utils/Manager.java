@@ -1,6 +1,6 @@
 package utils;
 
-public class Manager {
+public non-sealed class Manager extends Employee{
 
     private String login;
 

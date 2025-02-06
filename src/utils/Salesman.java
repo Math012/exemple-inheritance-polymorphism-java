@@ -1,6 +1,6 @@
 package utils;
 
-public class Salesman {
+public non-sealed class Salesman extends Employee{
 
     private Double percentPerSold;
 
